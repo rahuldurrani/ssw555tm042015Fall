@@ -2,12 +2,12 @@
 * The gedcomData class defines a data structure to 
 * hold GEDCOM data.
 *
-* @author  Durrani Rahul
+* @author  Durrani Rahul,Monica Shukla,Ishani Desai
 * @version 1.0
 * @since   2015-09-14 
 * @course  CS555
 */
-package com.stevens.cs555;
+//package com.stevens.cs555;
 
 public class gedcomData {
 
@@ -42,3 +42,4 @@ public class gedcomData {
 	
 	
 }
+

@@ -2,13 +2,13 @@
 * The gedcomProcessor class implements a class that can read, parse 
 * and validate GEDCOM data.
 *
-* @author  Durrani Rahul
+* @author  Durrani Rahul ,Monica Shukla,Ishani Desai,
 * @version 1.0
 * @since   2015-09-14 
 * @course  CS555
 */
 
-package com.stevens.cs555;
+//package com.stevens.cs555;
 
 import java.io.BufferedReader;
 import java.io.FileReader;
